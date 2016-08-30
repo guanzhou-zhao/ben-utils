@@ -1,7 +1,7 @@
 module.exports = {
-  filter: require("./filter.js"),
-  map: require("./map.js"),
-  countIf: require("./countIf.js")
+  filter: require("./lib/filter.js"),
+  map: require("./lib/map.js"),
+  countIf: require("./lib/countIf.js")
 }
 
 /******************************

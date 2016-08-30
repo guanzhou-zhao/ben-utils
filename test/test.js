@@ -1,6 +1,6 @@
 var assert = require('./assert')
 var data = require('../data/data')
-var utils = require('../lib/index.js')
+var utils = require('../index.js')
 var filter = utils.filter
 var map = utils.map
 var countIf = utils.countIf
